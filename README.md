@@ -7,7 +7,7 @@ Este projeto é um jogo em que se adivinha algum número aleatório, até acerta
 
 ### Layout Web
 
-[](![Captura de Tela (2)](https://github.com/CaioCamizao/Jogo-aleat-rio/assets/109806265/bda24835-ca44-4dc6-84f0-75a991c13827))
+![Captura de Tela (2)](https://github.com/CaioCamizao/Jogo-aleat-rio/assets/109806265/bda24835-ca44-4dc6-84f0-75a991c13827)
 
 ## Tecnologias utilizadas
 
